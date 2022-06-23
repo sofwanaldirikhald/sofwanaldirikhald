@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sofwan Aldi Rikhaldi
+- 👋 Hi, I’m Sofwan
 - 👀 I’m interested in Frontend Developer
 - 🌱 I’m currently learning Javascript
 
